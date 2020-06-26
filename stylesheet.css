@@ -267,7 +267,7 @@ footer {
 }
 
 .dropdown {
-  position: absolute;
+  position: relative;
   display: inline-block;
 }
 
