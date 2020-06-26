@@ -68,22 +68,6 @@ a {
   background-color: black;
 }
 
-.btn {
-  padding: 12px 24px;
-  color: white;
-  display: inline-block;
-  border-radius: 4px;
-  text-align: center;
-}
-
-.btn:hover {
-  opacity: 0.5;
-}
-
-.fa {
-  margin-right: 5px;
-}
-
 header {
   height: 65px;
   width: 100%;
@@ -122,12 +106,19 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
+.fa {
+  margin-right: 5px;
+}
+
 .dropbtn {
   background-color: #4CAF50;
-  padding: 16px;
+  padding: 12px 24px;
   font-size: 16px;
   border: none;
   color: white;
+  display: inline-block;
+    border-radius: 4px;
+    text-align: center;
 }
 
 .dropdown {
